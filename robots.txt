@@ -1,0 +1,8 @@
+User-agent: anothercrawler
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Googlebot-news
+User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+User-agent: *
+Disallow: /
